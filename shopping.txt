@@ -1,0 +1,1 @@
+['ali123', [{11: ['Butter', 1, 250.0], 'd': ['13/08/2021', '10:24:56', 'Paid through Credit Card'], 12: ['Cheese', 3, 1500.0]}, {1: ['Biscuits', 2, 60.0], 'd': ['30/08/2021', '15:55:34', 'Paid through Credit Card'], 11: ['Butter', 1, 250.0], 12: ['Cheese', 1, 500.0]}]]
