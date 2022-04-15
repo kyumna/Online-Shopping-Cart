@@ -1,1 +1,3 @@
-# Online-Shopping-Cart
+The purpose of this project entitled as “ONLINE SHOPPING CART” is to computerize the front based management of online store to develop CLI based application on “PYTHON” which is user friendly, simple, fast and cost effective for personal use. Shopping cart system is the simple shopping solution it’s a featured website that bends over backwards to give us the flexibility we need to run our online store .the basic concept of the application is to allow the customer to shop virtually using the internet and allow customers to buy the items and articles of their desire from the store. The information of products is stored in different 
+stock file. The details of the items are brought forward from the database for the customer view based on the selection through the menu and the database of all the products are updated at the end of each transaction
+
